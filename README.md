@@ -1,4 +1,4 @@
-# LangChain 학습 프로젝트
+# LangChain 학습
 
 LangChain 프레임워크 학습 과정을 기록한 저장소입니다.
 
