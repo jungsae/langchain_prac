@@ -59,6 +59,7 @@ Thumbs.db
 *.sqlite3
 
 # 벡터 저장소
+chroma/
 chroma_db/
 faiss_index/
 pinecone_index/
